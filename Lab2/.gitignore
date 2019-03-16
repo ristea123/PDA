@@ -1,0 +1,8 @@
+*.sln
+**/Debug
+**/.vs
+*.vcxproj
+*.filters
+stdafx.h
+stdafx.cpp
+targetver.h
